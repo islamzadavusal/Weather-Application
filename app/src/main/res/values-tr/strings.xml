@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="search_text">Şehir Ara</string>
+    <string name="today">Bugün</string>
+    <string name="humidity">Nem</string>
+    <string name="wind">Wind</string>
+    <string name="condition">Rüzgar</string>
+    <string name="sunrise">Gün doğumu</string>
+    <string name="sunset">Gün batımı</string>
+    <string name="sea">Deniz</string>
+</resources>
